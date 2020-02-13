@@ -1,0 +1,6 @@
+{
+    "name": "Autoformat with Black",
+    "description": "Autoformat python code with black",
+    "iconName": "edit-3",
+    "categories": ["Python"]
+}
